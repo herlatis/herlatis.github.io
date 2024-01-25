@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://herlatis.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tinajmj@sina.com (欢迎来到这个牢笼)</managingEditor>
+    <webMaster>tinajmj@sina.com (欢迎来到这个牢笼)</webMaster>
+    <lastBuildDate>Thu, 25 Jan 2024 13:52:19 +0800</lastBuildDate>
+    <atom:link href="https://herlatis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fzyzms</title>
+      <link>https://herlatis.github.io/drama/fzyzms/</link>
+      <pubDate>Thu, 25 Jan 2024 13:52:19 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/drama/fzyzms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haha</title>
+      <link>https://herlatis.github.io/learn/haha/</link>
+      <pubDate>Thu, 25 Jan 2024 13:32:12 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/learn/haha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://herlatis.github.io/like/first/</link>
+      <pubDate>Mon, 22 Jan 2024 13:05:50 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/like/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>一个世界的诞生</title>
+      <link>https://herlatis.github.io/life/2024012201/</link>
+      <pubDate>Mon, 22 Jan 2024 12:31:25 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/life/2024012201/</guid>
+      <description>2023年的冬天，我重新萌发了再次运营个人博客的念头。</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://herlatis.github.io/about/</link>
+      <pubDate>Mon, 22 Jan 2024 11:04:56 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/about/</guid>
+      <description>人类永远是孤独的， 但是无法孤独地行走于人世间。 - 关于「欢迎来到这个牢笼」 本网站由一位普通市民制作、上传、运营。
+很抱歉这位市民不真实存在于任何互联网平台， 但真实存在于这个世界（主要位于中国上海）。
+如有任何版权、经营问题，请通过邮箱地址：tinajmj@sina.com 联系我。
+全站禁止擅自复制、转载、二度创作，如有需要请同样联系以上邮箱地址，非常感谢。
+- 站点指引 「人先活着」 人由生活组成，生活由碎片组成，这个栏目用来存放这些碎片
+「喜欢就买」 爱好支撑着稳定的精神状态，虽然很耗钱；2024年这里主题估计是戏剧和护肤美妆
+「要不学学」 关于阅读、学习、技能提升、和一些无用的钻研
+「来都来了」 即本页面，没有什么具体的用处，但我很喜欢装修这里
+- 博文推荐 还是空的，如果写出了惊世巨作我一定放在这儿
+最后， 感谢你愿意花时间了解我。 </description>
+    </item>
+  </channel>
+</rss>
