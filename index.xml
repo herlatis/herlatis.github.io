@@ -8,8 +8,46 @@
     <language>en-us</language>
     <managingEditor>tinajmj@sina.com (欢迎来到这个牢笼)</managingEditor>
     <webMaster>tinajmj@sina.com (欢迎来到这个牢笼)</webMaster>
-    <lastBuildDate>Thu, 25 Jan 2024 13:52:19 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 22:17:43 +0800</lastBuildDate>
     <atom:link href="https://herlatis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seard</title>
+      <link>https://herlatis.github.io/life/life202403/</link>
+      <pubDate>Sat, 27 Jan 2024 22:17:43 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/life/life202403/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>https://herlatis.github.io/life/life202404/</link>
+      <pubDate>Sat, 27 Jan 2024 22:17:33 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/life/life202404/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://herlatis.github.io/life/life202402/</link>
+      <pubDate>Sat, 27 Jan 2024 22:15:33 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/life/life202402/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>一个世界的诞生</title>
+      <link>https://herlatis.github.io/life/life202401/</link>
+      <pubDate>Sat, 27 Jan 2024 12:31:25 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/life/life202401/</guid>
+      <description>2023年的冬天，我重新萌发了再次运营个人博客的念头。
+在大约三年前，我制作过另一个个人网站-今晚加班，但一来我不太习惯与他人共同运营，二来我并非技术出身，WordPress层出不穷的bug对我来说只有回档一个办法来解决。再加上虽然几乎可以说是能够所见即所得地装修，但毕竟不同模块的版本的调整和安装衔接总还是需要一些专业知识，久而久之我就懒得继续运营了。
+直到11月的时候我在长毛象闲逛，看到了椒盐豆豉太太的博文 《新的静态博客上线啦！》，给我提供了制作静态页面的思路。
+虽然静态页面在“简单”学习后对于我这种非技术人员在后续的运营和修理真的十分友好，但这完全也是基于和WordPress的对比之下……事实上自从12月我下定决心要创建这个网站开始，我的崩溃就开始了。
+最先放在面前的是cmd命令的一无所知，电脑设备的基础环境除了宝塔以外从来没有搭建过，于是从git开始安装，然后是golan和scoop，再到豆豉太太推荐的hugo的本地部分……几乎每一步都会被卡住，最主要的原因是电脑并非长期用于技术开发，因此有些先天性不足……
+简直可以说这段工作是从电脑安装开始的【。
+期间因为进组、巡演的销售和项目书之类的工作，十分忙碌的我差不多每过一两个礼拜才会想起来我还有个人站点这个项目，于是开始重复：工作-想起来折腾一下电脑-被技术问题卡住-崩溃了回去工作-想起来解决了问题-被新的技术问题卡住-崩溃了又回去工作……这样的无限循环之中。
+期间一度几乎放弃了，磨磨蹭蹭弄到上周也就是1月20号左右，忽然不知道为什么我福至心灵把所有本地关卡全部打通，可以在localhost运行这个网站了。
+惊喜之下，我又再次集中投入技术工作，1月25日为止不但成功将网站上传，而且学会了怎么在更新的时候不覆盖CNAME文件以至于需要每次重新定制网址：）
+两天后的今天，1月27日，周六，我写下了本站点的第一篇完成的文章，记录、但不太详细地记录了这段时间的艰辛。不是技术党就不记录期间的技术研究了，今后这个博客更多可能还是记录我的生活、学习、思考和对戏剧的爱。
+2024.1.27 周六 晴天</description>
+    </item>
     <item>
       <title>Fzyzms</title>
       <link>https://herlatis.github.io/drama/fzyzms/</link>
@@ -30,13 +68,6 @@
       <pubDate>Mon, 22 Jan 2024 13:05:50 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
       <guid>https://herlatis.github.io/like/first/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>一个世界的诞生</title>
-      <link>https://herlatis.github.io/life/2024012201/</link>
-      <pubDate>Mon, 22 Jan 2024 12:31:25 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
-      <guid>https://herlatis.github.io/life/2024012201/</guid>
-      <description>2023年的冬天，我重新萌发了再次运营个人博客的念头。</description>
     </item>
     <item>
       <title>About</title>
