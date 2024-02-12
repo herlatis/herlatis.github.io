@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Likes on My New Hugo Site</title>
+    <link>https://herlatis.github.io/like/</link>
+    <description>Recent content in Likes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tinajmj@sina.com (欢迎来到这个牢笼)</managingEditor>
+    <webMaster>tinajmj@sina.com (欢迎来到这个牢笼)</webMaster>
+    <lastBuildDate>Mon, 22 Jan 2024 13:05:50 +0800</lastBuildDate>
+    <atom:link href="https://herlatis.github.io/like/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://herlatis.github.io/like/first/</link>
+      <pubDate>Mon, 22 Jan 2024 13:05:50 +0800</pubDate><author>tinajmj@sina.com (欢迎来到这个牢笼)</author>
+      <guid>https://herlatis.github.io/like/first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
